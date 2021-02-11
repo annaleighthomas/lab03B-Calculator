@@ -28,7 +28,7 @@ main {
     justify-content: center;
     align-items: center;
     margin-bottom: calc(var(--footer-height));
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Comic Sans MS, Comic Sans, cursive;
     font-size: 50px;
     font-weight: bolder;
 }
@@ -36,11 +36,11 @@ main {
 .Calculator {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(130, 130, 189);
-    width: 550px;
+    width: 700px;
     height: 200px;
-    font-weight: bolder;
     font-size: 15px;
-    padding-left: 55px;
+    margin: auto;
+
     }
 
 section {
@@ -93,6 +93,7 @@ header img {
 }
 
 
+}
 
 content {
     width: 80%;
