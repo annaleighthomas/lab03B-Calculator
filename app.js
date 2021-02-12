@@ -1,4 +1,4 @@
-import { add, subtract, divide, multiply } from '../utilities.js'
+import { add, subtract, divide, multiply } from './utilities.js';
 
 //ADD
 const numberOne = document.getElementById('number-one');

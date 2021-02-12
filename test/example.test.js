@@ -54,6 +54,6 @@ test ('time to test mult', (expect) => {
     const result = multiply(x * y);
 
     expect.equal(result, sum);
-})
+});
 
 
